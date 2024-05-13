@@ -30,7 +30,7 @@ export function Plans() {
         </CardTitle>
         <CardDescription >
         <p className="text-lg font-semibold">
-        PROFESSIONAL 
+        PROFESSIONAL PLAN
     </p>   
         </CardDescription>
         <br></br>
